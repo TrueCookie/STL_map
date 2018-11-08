@@ -1,0 +1,6 @@
+cat кот
+death смерть
+friend друг
+lil ill больной малой
+map карта
+sugar сахар
